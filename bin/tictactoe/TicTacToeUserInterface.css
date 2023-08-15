@@ -1,0 +1,49 @@
+.border-pane{
+	-fx-background-image: url("../../fish.jpg");
+}
+.button{
+	-fx-background-color: lightblue;
+	-fx-padding:50px;
+	-fx-border-color:white;
+	-fx-border-width:5px;
+	-fx-border-radius:10px;
+}
+.press{
+	-fx-background-color:#3B75A9;
+}
+.release{
+	-fx-background-color: lightblue;
+	-fx-font-size:35px;
+	-fx-text-fill:white;
+	-fx-padding:33px 41px 33px 42px;
+	
+}
+.title{
+	-fx-background-color:grey;
+	-fx-text-fill:white;
+}
+.desicion{
+	-fx-text-fill:red;
+	-fx-font-size:60px;
+}
+.winButton{
+	-fx-background-color:green;
+}
+
+.comRelease{
+	-fx-background-color: red;
+	-fx-font-size:35px;
+	-fx-text-fill:white;
+	-fx-padding:33px 36px 33px 42px;
+}
+.exit{
+	-fx-padding:10px;
+}
+.winning{
+	-fx-text-fill:green;
+	-fx-font-size:60px;
+}
+.draw{
+	-fx-text-fill:black;
+	-fx-font-size:60px;
+}
